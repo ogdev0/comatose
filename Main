@@ -5,4 +5,5 @@ getgenv().comatose = function(GameID, LoadingString)
 end;
 
 comatose(10676523834, "https://raw.githubusercontent.com/ogdev0/comatose/main/racingrocket.lua") -- RacingRockets
+comatose(9285238704, "https://raw.githubusercontent.com/ogdev0/comatose/main/raceclicker.lua") -- RaceClicker
 comatose(10875701453, "https://raw.githubusercontent.com/ogdev0/comatose/main/maneatingtrain.lua") -- ManEatingTrain
