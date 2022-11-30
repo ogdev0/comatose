@@ -1,0 +1,8 @@
+getgenv().comatose = function(GameID, LoadingString)
+    if game.PlaceId == GameID then
+        loadstring(game:HttpGet(LoadingString))()
+    end
+end;
+
+comatose(10676523834, "https://raw.githubusercontent.com/ogdev0/comatose/main/racingrocket.lua") -- RacingRockets
+comatose(10875701453, "https://raw.githubusercontent.com/ogdev0/comatose/main/maneatingtrain.lua") -- ManEatingTrain
